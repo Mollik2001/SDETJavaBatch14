@@ -1,0 +1,24 @@
+What is inheritance:?
+Its a mehanism through which a class can inherit the properties and method of another class.
+Why we should learn inheritance?
+it help us avoid code deplication.
+it help us save space.
+It help us improve the execution speed.
+What is syntax?
+We use extend keyword and the name of the class from which we want to inherit the fields and methods while declaring the class.
+Type of inheritance:
+There can be 4 types of inheritance but java only support 3 of them in classes.
+1. Single Inheritance
+2. Multilevel Inheritance
+3. Hierarchical Inheritance
+4. Multiple Inheritance (but is not supported by classes in java)
+
+Definition of 4 types;
+Single Inheritance:
+ When we have only parent and child classes in inheritance it is called single inheritance.
+Multilevel Inheritance:
+ One top level and one base class and many intermediate classes. For Example A<B<C<D.
+Hierarchical Inheritance:
+ when we have one parent class and multiple child it's called Hierarchical Inheratance.
+Multiple Inheritance:
+ One child and multiple parent classes. it is not supported by class in java.
