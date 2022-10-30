@@ -1,24 +1,38 @@
-What is inheritance:?
-Its a mehanism through which a class can inherit the properties and method of another class.
+What is inheritance?
+    It's a mechanism through which a class can inherit the properties and methods of another class.
 Why we should learn inheritance?
-it help us avoid code deplication.
-it help us save space.
-It help us improve the execution speed.
-What is syntax?
-We use extend keyword and the name of the class from which we want to inherit the fields and methods while declaring the class.
-Type of inheritance:
-There can be 4 types of inheritance but java only support 3 of them in classes.
-1. Single Inheritance
-2. Multilevel Inheritance
-3. Hierarchical Inheritance
-4. Multiple Inheritance (but is not supported by classes in java)
-
-Definition of 4 types;
-Single Inheritance:
- When we have only parent and child classes in inheritance it is called single inheritance.
+    It helps use avoid code duplication.
+    It helps us save space.
+    It helps us improve the execution speed.
+What is the syntax?
+We use the extends keyword and the name of the class from which we want to inherit the fields
+and methods while declaring the class.
+Types of inheritance:
+    There can be 4 types of inheritance but java only supports 3 of them with classes.
+    1) Single.
+    2) Multilevel.
+    3) Hierarchical.
+    4) Multiple(it is not supported by classes in java).
+Single inheritance:
+    When we have only one parent and one child classes in inheritance it is called single inheritance.
+    not widely used.
 Multilevel Inheritance:
- One top level and one base class and many intermediate classes. For Example A<B<C<D.
+    One top level and one base class and many intermediate classes. For Example A<B<C<D.
 Hierarchical Inheritance:
- when we have one parent class and multiple child it's called Hierarchical Inheratance.
+    When we have one parent class and multiple child classes it's called Hierarchical Inheritance.
 Multiple Inheritance:
- One child and multiple parent classes. it is not supported by class in java.
+    One child and multiple parent classes. it is not supported by classes in java. It creates the diamond problem.
+Super keyword:
+    We use the super keyword to explicitly call the variable from the parent class. When we have
+    same name instance variable in child class and parent class.
+    We can also use the super keywrod to call the constructor of the parent class.
+==================================================================================
+MethodOverloading:
+    Method overloading allows us to create multiple methods in a class with same name.
+Why we should create multiple methods with same name?
+    It gives the end user flexibility.
+    The end user can call the same method with different parameters to get same or different results.
+How do we overload a method?
+    1) By passing different number of parameters.
+    2) By changing the datatype.
+    3) By changing the sequence of parameters
