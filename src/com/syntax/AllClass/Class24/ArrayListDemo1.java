@@ -13,10 +13,10 @@ public class ArrayListDemo1 {
         colors.add("Black");
         colors.add("Yellow");
         colors.add("Purple");
-        System.out.println(colors);
-        System.out.println(colors.get(0));
-        System.out.println(colors.get(02));
-        System.out.println(colors.size());
+       // System.out.println(colors);
+        //System.out.println(colors.get(0));
+        //System.out.println(colors.get(02));
+      //  System.out.println(colors.size());
 
         for (int i = 0; i <colors.size() ; i++) {
             System.out.println(colors.get(i));

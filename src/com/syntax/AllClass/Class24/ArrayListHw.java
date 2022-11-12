@@ -12,15 +12,16 @@ Find the size of your arrayList and print all values from that
     */
 
     public static void main(String[] args) {
-        ArrayList<String> arrList=new ArrayList<>();
-        arrList.add("Mollik");
-        arrList.add("Adam");
-        arrList.add("John");
-        arrList.add("Rosier");
-        arrList.add("Rumen");
-        System.out.println(arrList.isEmpty());
-        System.out.println(" The name Mollik is available in ArrayList " + arrList.contains ("Mollik"));
-        System.out.println(arrList.size());
+        ArrayList<String> name=new ArrayList<>();
+        name.add("Mollik");
+        name.add("Adam");
+        name.add("John");
+        name.add("Rosier");
+        name.add("Rumen");
+        System.out.println(name.isEmpty());
+        System.out.println(" The name Mollik is available in ArrayList " + name.contains ("Mollik"));
+        System.out.println(name.size());
+        System.out.println(name);
 
 
 
