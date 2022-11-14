@@ -1,4 +1,4 @@
-package ReviewClass1;
+package AllReviewClass.ReviewClass.ReviewClass1;
 
 public class Teacher {
 

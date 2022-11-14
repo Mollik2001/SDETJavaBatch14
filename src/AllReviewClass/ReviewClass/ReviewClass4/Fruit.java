@@ -1,4 +1,4 @@
-package ReviewClass4;
+package AllReviewClass.ReviewClass.ReviewClass4;
 
 public class Fruit {
 

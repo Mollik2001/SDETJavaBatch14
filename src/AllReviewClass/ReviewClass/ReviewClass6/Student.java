@@ -1,4 +1,4 @@
-package ReviewClass6;
+package AllReviewClass.ReviewClass.ReviewClass6;
 
 import java.util.Objects;
 

@@ -1,4 +1,4 @@
-package ReviewClass;
+package AllReviewClass.ReviewClass;
 
 public class StringeMethod {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ReviewClass3;
+package AllReviewClass.ReviewClass.ReviewClass3;
 
 public class Teacher {
     String name, lName;

@@ -1,4 +1,4 @@
-package ReviewClass3;
+package AllReviewClass.ReviewClass.ReviewClass3;
 
 public class Te {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ReviewClass5;
+package AllReviewClass.ReviewClass.ReviewClass5;
 
  class Drink {
      void drink() {
